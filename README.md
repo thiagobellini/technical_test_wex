@@ -32,3 +32,9 @@ To use the system, two alternatives were provided. Swagger, which can be accesse
 [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
 
 [Postman](postman)
+
+\
+\
+The application uses Docker. To upload it, simply have Docker installed on your machine, go into the root folder of the project and run the command:
+
+```docker-compose up --build -d```
